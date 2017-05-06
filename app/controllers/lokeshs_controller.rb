@@ -1,0 +1,2 @@
+class LokeshsController < ApplicationController
+end
